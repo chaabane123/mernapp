@@ -11,7 +11,7 @@ service:
 
 env:
   - name: REACT_APP_SERVER_URL
-    value: http://backend-service:4000
+    value: http://backend-service:3000
 
 ingress:
   enabled: true
