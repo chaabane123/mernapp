@@ -64,10 +64,11 @@ Déploiement sur un cluster Kubernetes local :
 ---
 
 ### 4️⃣ Monitoring avec Prometheus et Grafana  
-- **Installation** : Déploiement de Prometheus et Grafana dans le namespace monitoring.  
+- **Installation** : Déploiement de Prometheus et Grafana dans le namespace monitoring.
+  ![Prometheus](https://i.ibb.co/5WZ8DqC/promethus-6.png)  
+
 - **Configuration** : Collecte des métriques avec Prometheus et visualisation via Grafana.  
 
-![Prometheus](https://i.ibb.co/5WZ8DqC/promethus-6.png)  
 ![Grafana](https://i.ibb.co/y84gNhk/installation-grafana-7.png)  
 
 ---
