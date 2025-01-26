@@ -68,7 +68,7 @@ Déploiement sur un cluster Kubernetes local :
 - **Configuration** : Collecte des métriques avec Prometheus et visualisation via Grafana.  
 
 ![Prometheus](https://i.ibb.co/5WZ8DqC/promethus-6.png)  
-![Grafana](https://i.ibb.co/y84gNhk/installation-grafana-7.png)  
+![Grafana]([https://i.ibb.co/y84gNhk/installation-grafana-7.png](https://i.ibb.co/MhD5DpX/installation-grafana-7.png))  
 
 ---
 
